@@ -26,7 +26,7 @@ StyleMart lets users browse a curated product catalogue and save items they love
 No build step, no npm install, no server required.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-task-cedcoss.git
+git clone https://github.com/manvith12222681/ecommerce-task-cedcoss.git
 cd ecommerce-task-cedcoss
 
 # Just open index.html in your browser:
